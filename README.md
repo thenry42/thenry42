@@ -1,4 +1,13 @@
-## Hi there 👋
+# ✨ Hello there ✨
+
+## Personal projects
+
+## Currently learning
+
+## Experiences
+
+## Contact
+📫 h_thibault@yahoo.fr
 
 <!--
 **thenry42/thenry42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
