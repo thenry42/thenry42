@@ -40,6 +40,7 @@
 💌 Email: h_thibault@yahoo.fr  
 🌍 Website/Portfolio: [thibaulthenry.com](https://thibaulthenry.com)  
 💻 LeetCode: [thenry42](https://leetcode.com/thenry42/)
+💻 CodinGame: [thenry42](https://www.codingame.com/profile/508e11b521204ab17dd7134eb17432437457194)
 
 ---
 
@@ -47,7 +48,12 @@
 
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats-edskq870y-thibault-henrys-projects-61578723.vercel.app/api?username=thenry42" alt="GitHub Stats">
-  <img src="https://github-readme-stats-edskq870y-thibault-henrys-projects-61578723.vercel.app/api/top-langs/?username=thenry42&layout=compact&count_private=true&theme=tokyonight" alt="Most Used Languages" height="170">
+<div align="center">
+    <img width="495em" src="https://github-readme-stats-theta-five-31.vercel.app/api?username=thenry42&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=0" alt="thenry42's GitHub Stats"/>
+    <br>
+    <img width="495em" src="https://github-readme-stats-theta-five-31.vercel.app/api/top-langs/?username=thenry42&theme=tokyonight&langs_count=15&cache_seconds=0&hide_progress=true&hide=roff,cmake,batchfile,kotlin,perl,swift,glsl,objective-c,objective-c%2b%2b" alt="thenry42's Most Used Languages"/>
+    <br>
+    <img width="495em" src="https://github-readme-streak-stats.herokuapp.com/?user=thenry42&theme=tokyonight" alt="GitHub Streak">
+</div>
 
 </div>
