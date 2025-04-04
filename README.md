@@ -63,4 +63,4 @@
 <br>
 <img width="495em" src="https://github-readme-stats-theta-five-31.vercel.app/api/top-langs/?username=thenry42&theme=tokyonight&langs_count=15&cache_seconds=0&hide_progress=true&hide=roff,cmake,batchfile,kotlin,perl,swift,glsl,objective-c,objective-c%2b%2b" alt="thenry42's Most Used Languages"/>
 <br>
-<img width="495em" src="https://streak-stats.demolab.com/?user=thenry42&theme=tokyonight" alt="GitHub Streak">
+<!-- <img width="495em" src="https://streak-stats.demolab.com/?user=thenry42&theme=tokyonight" alt="GitHub Streak"> -->
