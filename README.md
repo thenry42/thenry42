@@ -59,8 +59,8 @@
 
 ## 📊 GitHub Stats
 
-<img width="495em" src="https://github-readme-stats-theta-five-31.vercel.app/api?username=thenry42&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=0" alt="thenry42's GitHub Stats"/>
+<img width="495em" src="https://github-readme-stats-theta-five-31.vercel.app/api?username=thenry42&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=3600" alt="thenry42's GitHub Stats"/>
 <br>
-<img width="495em" src="https://github-readme-stats-theta-five-31.vercel.app/api/top-langs/?username=thenry42&theme=tokyonight&langs_count=15&cache_seconds=0&hide_progress=true&hide=roff,cmake,batchfile,kotlin,perl,swift,glsl,objective-c,objective-c%2b%2b" alt="thenry42's Most Used Languages"/>
+<img width="495em" src="https://github-readme-stats-theta-five-31.vercel.app/api/top-langs/?username=thenry42&theme=tokyonight&langs_count=15&cache_seconds=3600&hide_progress=true&hide=roff,cmake,batchfile,kotlin,perl,swift,glsl,objective-c,objective-c%2b%2b" alt="thenry42's Most Used Languages"/>
 <br>
 <!-- <img width="495em" src="https://streak-stats.demolab.com/?user=thenry42&theme=tokyonight" alt="GitHub Streak"> -->
