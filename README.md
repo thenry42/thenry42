@@ -8,6 +8,7 @@
 |---------|-------------|
 | [**Promptly**](https://github.com/thenry42/Promptly) | A desktop App available on Linux that allows to interact with multiple AI models including Ollama, Anthropic and OpenAI. |
 | [**promptly_cli**](https://github.com/thenry42/promptly_cli) | A command-line interface for interacting with various AI language models, compatible with Ollama CLI syntax and supporting multiple providers including OpenAI, Mistral, Anthropic, and more. |
+| [**Promptly_flutter**](https://github.com/thenry42/Promptly_flutter) | A Flutter App available on Linux that allows to interact with multiple AI models including Ollama, Anthropic and OpenAI. |
 | [**thibaulthenry.com**](https://thibaulthenry.com) | My personal portfolio website showcasing my projects & skills among other things. The website features a terminal theme & a more traditional pastel theme |
 | [**Atelier Dama**](https://atelierdama.fr/) | A showcase website for a couple of friends who make handcrafted & custom lamps. |
 
