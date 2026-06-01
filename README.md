@@ -97,6 +97,4 @@ Polynomial equation solver (mainly degree 2) with parser, reducer, and evaluator
 
 [thibaulthenry.com/resume](https://thibaulthenry.com/resume)
 
----
-
 *Open to feedback on my projects and to apprenticeship opportunities (2 years, from September 2026). Feel free to reach out.*
