@@ -8,7 +8,7 @@ I build web and desktop applications (C/C++, Python, TypeScript) and I am lookin
 
 ---
 
-### <a href="https://github.com/thenry42/promptly_cli" target="_blank" rel="noopener noreferrer">Promptly</a> — terminal CLI
+### ⌨️ <a href="https://github.com/thenry42/promptly_cli" target="_blank" rel="noopener noreferrer">Promptly</a> — AI interface in terminal
 Command-line client to chat with multiple AI providers (Ollama, OpenAI, Anthropic, and more) from the terminal, with Ollama-like syntax.
 
 *Earlier desktop and mobile variants were explored.*
@@ -17,28 +17,28 @@ Command-line client to chat with multiple AI providers (Ollama, OpenAI, Anthropi
 
 ---
 
-### <a href="https://thibaulthenry.com" target="_blank" rel="noopener noreferrer">thibaulthenry.com</a> — Chat with my AI clone (Portfolio)
+### 🌐 <a href="https://thibaulthenry.com" target="_blank" rel="noopener noreferrer">thibaulthenry.com</a> — Chat with my AI clone (Portfolio)
 Personal site: profile, projects, and skills. AI clone with simple RAG to answer questions about me.
 
 `TypeScript` `TailwindCSS` `React` `Next.js` `Hostinger`
 
 ---
 
-### <a href="https://atelierdama.fr/" target="_blank" rel="noopener noreferrer">Atelier Dama</a> — showcase website
+### 🌐 <a href="https://atelierdama.fr/" target="_blank" rel="noopener noreferrer">Atelier Dama</a> — showcase website
 Site for a handcrafted custom lamp workshop: highlights their craft and product catalog.
 
 `TypeScript` `TailwindCSS` `React` `Next.js` `Hostinger`
 
 ---
 
-### <a href="https://github.com/thenry42/npuzzle" target="_blank" rel="noopener noreferrer">npuzzle</a> — puzzle game
+### 🧩 <a href="https://github.com/thenry42/npuzzle" target="_blank" rel="noopener noreferrer">npuzzle</a> — puzzle game
 High performance n-puzzle solver using A* search and multiple heuristics in C++.
 
 `42` `C++` `A*` `Heuristics`
 
 ---
 
-### <a href="https://github.com/thenry42/computorv1" target="_blank" rel="noopener noreferrer">computorv1</a> — equation solver
+### ∑ <a href="https://github.com/thenry42/computorv1" target="_blank" rel="noopener noreferrer">computorv1</a> — equation solver
 Polynomial equation solver (mainly degree 2) with parser, reducer, and evaluator in Python.
 
 `42` `Python` `Parsing` `Math`
@@ -95,7 +95,7 @@ Polynomial equation solver (mainly degree 2) with parser, reducer, and evaluator
 
 ## Resume
 
-<a href="https://thibaulthenry.com/resume.pdf" target="_blank" rel="noopener noreferrer">Download</a>
+[thibaulthenry.com/resume](https://thibaulthenry.com/resume)
 
 ---
 
