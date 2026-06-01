@@ -8,8 +8,6 @@ I build web and desktop applications (C/C++, Python, TypeScript) and I am lookin
 
 ---
 
-## Personal projects
-
 ### <a href="https://github.com/thenry42/promptly_cli" target="_blank" rel="noopener noreferrer">Promptly</a> — terminal CLI
 Command-line client to chat with multiple AI providers (Ollama, OpenAI, Anthropic, and more) from the terminal, with Ollama-like syntax.
 
@@ -33,26 +31,22 @@ Site for a handcrafted custom lamp workshop: highlights their craft and product 
 
 ---
 
-## School projects (42 & coursework)
+### <a href="https://github.com/thenry42/npuzzle" target="_blank" rel="noopener noreferrer">npuzzle</a> — puzzle game
+High performance n-puzzle solver using A* search and multiple heuristics in C++.
 
-*Section to fill in — add your 42 projects and other academic work below.*
+`42` `C++` `A*` `Heuristics`
 
-<!--
-Example format:
+---
 
-### Project name
-Short description (goals, constraints, what you learned).
+### <a href="https://github.com/thenry42/computorv1" target="_blank" rel="noopener noreferrer">computorv1</a> — equation solver
+Polynomial equation solver (mainly degree 2) with parser, reducer, and evaluator in Python.
 
-`C` `Unix` `Makefile`
-
-→ [Repo](https://github.com/thenry42/...) · [Subject / PDF if public]
--->
+`42` `Python` `Parsing` `Math`
 
 ---
 
 ## Contact
 
-| | |
 |---|---|
 | **Email** | [h_thibault@yahoo.fr](mailto:h_thibault@yahoo.fr) |
 | **Portfolio** | <a href="https://thibaulthenry.com" target="_blank" rel="noopener noreferrer">thibaulthenry.com</a> |
