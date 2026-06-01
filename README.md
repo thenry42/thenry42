@@ -17,8 +17,8 @@ Command-line client to chat with multiple AI providers (Ollama, OpenAI, Anthropi
 
 ---
 
-### <a href="https://thibaulthenry.com" target="_blank" rel="noopener noreferrer">thibaulthenry.com</a> — portfolio
-Personal site: profile, projects, and skills. Two themes (terminal and pastel).
+### <a href="https://thibaulthenry.com" target="_blank" rel="noopener noreferrer">thibaulthenry.com</a> — Chat with my AI clone (Portfolio)
+Personal site: profile, projects, and skills. AI clone with simple RAG to answer questions about me.
 
 `TypeScript` `TailwindCSS` `React` `Next.js` `Hostinger`
 
@@ -47,11 +47,10 @@ Polynomial equation solver (mainly degree 2) with parser, reducer, and evaluator
 
 ## Contact
 
-|---|---|
-| **Email** | [h_thibault@yahoo.fr](mailto:h_thibault@yahoo.fr) |
-| **Portfolio** | <a href="https://thibaulthenry.com" target="_blank" rel="noopener noreferrer">thibaulthenry.com</a> |
-| **LeetCode** | <a href="https://leetcode.com/thenry42/" target="_blank" rel="noopener noreferrer">thenry42</a> |
-| **CodinGame** | <a href="https://www.codingame.com/profile/508e11b521204ab17dd7134eb17432437457194" target="_blank" rel="noopener noreferrer">Profile</a> |
+- **Email:** [h_thibault@yahoo.fr](mailto:h_thibault@yahoo.fr)
+- **Portfolio:** [thibaulthenry.com](https://thibaulthenry.com)
+- **LeetCode:** [thenry42](https://leetcode.com/thenry42/)
+- **CodinGame:** [Profile](https://www.codingame.com/profile/508e11b521204ab17dd7134eb17432437457194)
 
 ---
 
@@ -91,6 +90,12 @@ Polynomial equation solver (mainly degree 2) with parser, reducer, and evaluator
 <img src="https://img.shields.io/badge/-Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
 <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
+
+---
+
+## Resume
+
+<a href="https://thibaulthenry.com/resume.pdf" target="_blank" rel="noopener noreferrer">Download</a>
 
 ---
 
