@@ -2,35 +2,31 @@
 
 **Student at 42 Paris** · Full-stack developer · **Open to a 2-year apprenticeship / alternance from September 2026**
 
-I build web and desktop applications (C/C++, Python, Flutter, TypeScript) and I am looking for a **2-year apprenticeship starting in September 2026** to contribute to a team while continuing my training at 42.
+I build web and desktop applications (C/C++, Python, TypeScript) and I am looking for a **2-year apprenticeship starting in September 2026** to contribute to a team while continuing my training at 42.
 
-[Portfolio](https://thibaulthenry.com) · [Email](mailto:h_thibault@yahoo.fr)
+<a href="https://thibaulthenry.com" target="_blank" rel="noopener noreferrer">Portfolio</a> · [Email](mailto:h_thibault@yahoo.fr)
 
 ---
 
 ## Personal projects
 
-### [Promptly](https://github.com/thenry42/Promptly) — Linux desktop client
-App to chat with multiple AI providers (Ollama, OpenAI, Anthropic, and more) from a single interface.
+### <a href="https://github.com/thenry42/promptly_cli" target="_blank" rel="noopener noreferrer">Promptly</a> — terminal CLI
+Command-line client to chat with multiple AI providers (Ollama, OpenAI, Anthropic, and more) from the terminal, with Ollama-like syntax.
+
+*Earlier desktop and mobile variants were explored.*
 
 `Python` `Linux` `Ollama` `OpenAI` `Anthropic`
 
-| Variant | Link | Role |
-|---------|------|------|
-| Desktop (main) | [Promptly](https://github.com/thenry42/Promptly) | Primary app |
-| CLI | [promptly_cli](https://github.com/thenry42/promptly_cli) | Terminal interface, Ollama-like syntax |
-| Mobile / cross-platform | [Promptly_flutter](https://github.com/thenry42/Promptly_flutter) | Flutter build (Linux) |
-
 ---
 
-### [thibaulthenry.com](https://thibaulthenry.com) — portfolio
+### <a href="https://thibaulthenry.com" target="_blank" rel="noopener noreferrer">thibaulthenry.com</a> — portfolio
 Personal site: profile, projects, and skills. Two themes (terminal and pastel).
 
 `TypeScript` `TailwindCSS` `React` `Next.js` `Hostinger`
 
 ---
 
-### [Atelier Dama](https://atelierdama.fr/) — showcase website
+### <a href="https://atelierdama.fr/" target="_blank" rel="noopener noreferrer">Atelier Dama</a> — showcase website
 Site for a handcrafted custom lamp workshop: highlights their craft and product catalog.
 
 `TypeScript` `TailwindCSS` `React` `Next.js` `Hostinger`
@@ -59,9 +55,9 @@ Short description (goals, constraints, what you learned).
 | | |
 |---|---|
 | **Email** | [h_thibault@yahoo.fr](mailto:h_thibault@yahoo.fr) |
-| **Portfolio** | [thibaulthenry.com](https://thibaulthenry.com) |
-| **LeetCode** | [thenry42](https://leetcode.com/thenry42/) |
-| **CodinGame** | [Profile](https://www.codingame.com/profile/508e11b521204ab17dd7134eb17432437457194) |
+| **Portfolio** | <a href="https://thibaulthenry.com" target="_blank" rel="noopener noreferrer">thibaulthenry.com</a> |
+| **LeetCode** | <a href="https://leetcode.com/thenry42/" target="_blank" rel="noopener noreferrer">thenry42</a> |
+| **CodinGame** | <a href="https://www.codingame.com/profile/508e11b521204ab17dd7134eb17432437457194" target="_blank" rel="noopener noreferrer">Profile</a> |
 
 ---
 
